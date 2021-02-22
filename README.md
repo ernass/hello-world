@@ -1,2 +1,2 @@
-# hello-world
-my repository
+Hello 
+I'm new developper in Github community
